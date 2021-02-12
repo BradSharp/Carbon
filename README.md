@@ -1,5 +1,5 @@
-# Core
-Lightweight development framework for Roblox
+# Carbon
+Powerful & lightweight development framework for Roblox
 
 ## Features
 - Simple: Super easy to use
